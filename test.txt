@@ -1,3 +1,8 @@
 hello
 你好
+<<<<<<< HEAD
 王鹏
+=======
+nihao
+
+>>>>>>> three-one
